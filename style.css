@@ -7539,7 +7539,7 @@ h1 {
 }
 
 .ftSocialLinks>li>a:hover {
-  color: #fa3f1e;
+  color: #fa3f1e !important;
 }
 
 .ftSocialLinks .icn {
