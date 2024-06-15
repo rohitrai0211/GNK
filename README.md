@@ -1,1 +1,1 @@
-# GNK
+# Gurunanak
